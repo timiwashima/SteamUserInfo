@@ -1,5 +1,6 @@
 # SteamuserInfo
 <p>Get information on a Steam User, Playtime by OS, and 3 most recently played games<br />
+<br />
 Example Output:<br />
 Name: Tim<br />
 Real Name: Tim<br />
