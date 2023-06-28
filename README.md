@@ -3,15 +3,15 @@
 Example Output:<br />
 Name: Tim<br />
 Real Name: Tim<br />
-Status: Offline
-Last logoff: Tuesday, June 27, 2023 21:54
-Account Created: Tuesday, May 09, 2006 03:06
-Profile URL: https://steamcommunity.com/profiles/76561197982490351/
-
-Windows Playtime: 1894.58 hours (69.9%)
-Linux Playtime: 815.98 hours (30.1%)
-Mac Playtime: 0.0 hours (0.0%)
-Total Playtime: 2710.57 hours
+Status: Offline<br />
+Last logoff: Tuesday, June 27, 2023 21:54<br />
+Account Created: Tuesday, May 09, 2006 03:06<br />
+Profile URL: https://steamcommunity.com/profiles/76561197982490351/<br />
+<br />
+Windows Playtime: 1894.58 hours (69.9%)<br />
+Linux Playtime: 815.98 hours (30.1%)<br />
+Mac Playtime: 0.0 hours (0.0%)<br />
+Total Playtime: 2710.57 hours<br />
 
 Recently Played Games
 Factorio
