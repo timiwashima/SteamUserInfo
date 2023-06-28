@@ -1,8 +1,8 @@
 # SteamuserInfo
 <p>Get information on a Steam User, Playtime by OS, and 3 most recently played games<br />
 Example Output:<br />
-Name: Tim
-Real Name: Tim
+Name: Tim<br />
+Real Name: Tim<br />
 Status: Offline
 Last logoff: Tuesday, June 27, 2023 21:54
 Account Created: Tuesday, May 09, 2006 03:06
