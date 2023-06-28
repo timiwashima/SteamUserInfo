@@ -1,6 +1,5 @@
 # SteamuserInfo
-Get information on a Steam User, Playtime by OS, and 3 most recently played games
-
+<p>Get information on a Steam User, Playtime by OS, and 3 most recently played games<br />
 Example Output:
 Name: Tim
 Real Name: Tim
@@ -29,4 +28,4 @@ Torchlight II
   Total Playtime: 46.38 hours
     Windows Playtime: 32.68 hours (92.2%)
     Linux Playtime: 2.75 hours (7.8%)
-    Mac Playtime: 0.0 hours (0.0%)
+    Mac Playtime: 0.0 hours (0.0%)</p>
