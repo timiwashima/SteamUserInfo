@@ -1,5 +1,5 @@
 # SteamuserInfo
-<p>Get information on a Steam User, Playtime by OS, and 3 most recently played games<br />
-<br />
-Example Output:<br />
-![Untitled](https://github.com/timiwashima/SteamuserInfo/assets/52045865/050a0f26-09e1-43bd-9be9-337d69a905ab)
+Get information on a Steam User, Playtime by OS, and 3 most recently played games
+
+Example Output:
+![Untitled](https://github.com/timiwashima/SteamuserInfo/assets/52045865/7e5912de-2115-4db7-8dcd-1c79cb5f2be9)
