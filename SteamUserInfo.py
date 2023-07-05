@@ -6,6 +6,8 @@ Get information on a Steam User, Playtime by OS, and 3 most recently played game
 """
 import requests
 from datetime import datetime
+import matplotlib.pyplot as plot
+import numpy
 
 apiKey=# Get your API Key here=https://steamcommunity.com/login/home/?goto=%2Fdev%2Fapikey
 
@@ -73,6 +75,13 @@ print('\nWindows Playtime: ' + str(windowsRoundedHours) + ' hours (' + '{:.1%}'.
 print('Linux Playtime: ' + str(linuxRoundedHours) + ' hours (' + '{:.1%}'.format(linuxPercentage) + ')')
 print('Mac Playtime: ' + str(macRoundedHours) + ' hours (' + '{:.1%}'.format(macPercentage) + ')')
 print('Total Playtime: ' + str(totalRoundedHours) + ' hours')
+
+# Pie Chart the Platform Statistics
+pieChart=numpy.array([windows,linux,mac])
+pieLabels=['Windows','Linux','Mac']
+pieColors=['blue','green','grey']
+plot.pie(pieChart,labels=pieLabels,colors=pieColors)
+plot.show()
 
 # Recently Played Games Information
 gameSummaryURL='http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key='+apiKey+'&steamid='+steamID+'&format=json'
